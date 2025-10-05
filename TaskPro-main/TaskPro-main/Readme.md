@@ -27,12 +27,6 @@ Welcome to TaskPro, a powerful full stack to-do manager application. With TaskPr
  <img src="./img/03.png" alt="Edit Task" width="1000" height="500">
 
 
-    
-
- 
-##  Deployed Link from cyclic.sh  :
-     
- https://handsome-leotard-jay.cyclic.app/
 
 ## Features
 ---
@@ -46,8 +40,7 @@ Welcome to TaskPro, a powerful full stack to-do manager application. With TaskPr
 1. Clone this repository:
 
 ```bash 
-git clone https://github.com/MehraDevesh2022/TaskPro.git
-
+git clone 
 ```
 
 2. Install the dependencies:
@@ -70,6 +63,7 @@ npm start
 ## Contributing
 
 Contributions are always welcome ! add your own features and make a pull request.
+
 
 
 
